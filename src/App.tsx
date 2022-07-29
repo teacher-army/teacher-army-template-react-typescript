@@ -18,6 +18,15 @@ function App() {
         >
           Learn React
         </a>
+        in
+        <a
+          href="https://teacher.army/"
+          style={{ color: 'rgba(45,100,255,1)'}}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Teacher Army!
+        </a>
       </header>
     </div>
   );
