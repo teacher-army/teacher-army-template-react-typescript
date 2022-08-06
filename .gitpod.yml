@@ -1,7 +1,7 @@
 # Learn more about this file at https://www.gitpod.io/docs/references/gitpod-yml
 tasks:
   - init: npm i
-  - command: nmp ci && npm run start
+  - command: npm ci && npm run start
 ports:
   - port: 3000
     onOpen: open-preview
