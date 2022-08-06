@@ -4,4 +4,4 @@
 
 Ты можешь ознакомиться с темплейтом прямо сейчас, не выходя из браузера, с помощью сервиса Gitpod.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-python-flask)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/teacher-army/teacher-army-template-react-typescript)
